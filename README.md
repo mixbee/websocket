@@ -13,7 +13,7 @@ npm install --save @mixbee/websocket
 The API is the same as the standard HTML5 Socket API so nothing new here...
 
 ```javascript
-const WebSocket = require('@mixbee/websocke');
+const WebSocket = require('@mixbee/websocket');
 
 const ws = new WebSocket('ws://html5rocks.websocket.org/echo');
 

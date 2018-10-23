@@ -12,5 +12,13 @@
   "license": "MIT",
   "dependencies": {
     "ws": "^6.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/mixbee/websocket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mixbee/websocket/issues"
+  },
+  "homepage": "https://github.com/mixbee/websocket#readme"
 }
