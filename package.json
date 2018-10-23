@@ -5,13 +5,19 @@
   "main": "index.js",
   "browser": "browser.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava --verbose test"
   },
-  "keywords": ["websocket", "browser"],
+  "keywords": [
+    "websocket",
+    "browser"
+  ],
   "author": "mixbee.org",
   "license": "MIT",
   "dependencies": {
     "ws": "^6.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
   },
   "repository": {
     "type": "git",
