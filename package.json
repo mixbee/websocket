@@ -1,0 +1,16 @@
+{
+  "name": "@mixbee/websocket",
+  "version": "1.0.0",
+  "description": "Wrapped ws lib Api Like HTML5 WebSocket for node.js",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["websocket", "browser"],
+  "author": "mixbee.org",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
